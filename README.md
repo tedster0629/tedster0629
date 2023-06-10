@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=dev-tom-0108&color=yellow)
-
 <h2 align = "center">
 Hi 👋 Welcome!
 </h2>
