@@ -67,13 +67,3 @@ More than 5 years of experience with web and app development, 3+ years of 🔗<b
 🔥I am always trying to improve development and communication processes.🔥
 </h4>
 <br />
-
-
-
-## 📩 You can contact me via 📩
-<a href="#"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/linkedin.svg" alt="Oura | LinkedIn" width="24px"/></a>
-<a href="#"><img align="left" src="https://raw.githubusercontent.com/dev-tom-0108/dev-tom-0108/main/images/discord.svg" alt="Oura | Discord" width="24px"/></a>
-<a href="tedster0629@gmail.com"><img align="left" src="https://raw.githubusercontent.com/dev-tom-0108/dev-tom-0108/main/images/email.svg" alt="Oura | Email" width="24px"/></a>
-<a href="#"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Alex | Telegram" width="24px"/></a>
-<a href="#"><img align="left" src="https://raw.githubusercontent.com/dev-tom-0108/dev-tom-0108/main/images/skype.svg" alt="Oura | Skype" width="24px"/></a>
-<br/>
