@@ -1,22 +1,83 @@
-<h3 align="center">Full Stack Developer</h3>
+![](https://komarev.com/ghpvc/?username=dev-tom-0108&color=yellow)
 
-<h3 align="left">Description</h3>
-<p align="left">
-  I am working as a senior full stack developer.
-My main software development skills are web, blockchain and games.
-Firstly, I am very familiar with web development.
-Main web development skills are React.js, Next.js, Vue.js, Angular.js, Node/Express.js, Laravel.
-Until now, I have finished many website such as e-commerce, Introduction sites, marketplaces and so on.
-Now I can develop any web project include frontend and backend.
-Secondly, I am familiar with blockchain technology, especially, in smart contract.
-I have created some blockchain dapps such as nft-marketplaces, nft-minting site, DeFi, DEX and so on.
-And I have worked on P2E games on some chains.
-These games are built on web and unity.
-In these game project I have implemented main game, smart contract and off-chain server using node/express.js and encryption part to prevent attacking while communication with 3 parts.
-Finally, I am familiar with game development and created many game projects for 3 years.
-In many game projects, I have developed both game and backend and these games were built on Unity, Cocos and Unreal Engine and these backend were built on Node, SFS, Unity Photon, Csharp with socket communication so on.
-Now, I can handle all type of game project such as Strategy , Fighting , Racing , Combat , Card and also can handle game backend.
-</p>
+<h2 align = "center">
+Hi 👋 Welcome!
+</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+
+## 💰 Chain based
+<span><img src="https://seeklogo.com/images/S/solana-sol-logo-9AA58519FE-seeklogo.com.png" alt="Solana logo" title="Solana" height="40" />
+&nbsp;
+<img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum logo" title="Ethereum" height="40" />
+&nbsp;
+<img src="https://seeklogo.com/images/B/binance-coin-bnb-logo-CD94CC6D31-seeklogo.com.png" alt="Binance logo" title="Binance" height="35" />
+&nbsp;
+<img src="https://seeklogo.com/images/A/avalanche-avax-logo-440813952D-seeklogo.com.png" alt="Avalanche logo" title="Avalanche" height="33" />
+&nbsp;
+<img src="https://seeklogo.com/images/P/polygon-matic-logo-1DFDA3A3A8-seeklogo.com.png" alt="Polygon logo" title="Polygon" height="33" />
+&nbsp;
+<img src="https://seeklogo.com/images/N/near-protocol-near-logo-3CBD263358-seeklogo.com.png" alt="Neaer Protocol logo" title="Near protocol" height="30" />
+&nbsp;
+<br /> <br />
+
+## 🛠  Technologies and tools
+<span><img src="https://img.shields.io/badge/Rust-282C34?logo=Rust&logoColor=fff" alt="Rust logo" title="Rust" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="20" /></span>
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DBFB" alt="React logo" title="React" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=111111" alt="Next.js logo" title="Next.js" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=41B883" alt="Vue.js logo" title="Vue.js" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=Nuxt.js&logoColor=41B883" alt="Nuxt.js logo" title="Nuxt.js" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/Sass-282C34?logo=Sass&logoColor=F5517F" alt="Sass logo" title="Sass" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/docker-282C34?logo=Docker&logoColor=007ACC" alt="Docker logo" title="Docker" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=FFCB2B" alt="firebase logo" title="firebase" height="20" />
+&nbsp;
+<br /><br />
+
+
+<h4 align="center">
+More than 5 years of experience with web and app development, 3+ years of 🔗<b>BLOCKCHAIN</b>🔗 part. 
+<br /><br />
+👨‍💻As a creative & passionate developer, and fast learner with new skills and cutting edge skills in detail and high quality.👨‍💻
+</br>
+💪My strength is building Smart Contracts on several chains. Web3 injection is also my power!💪
+<br />
+🔥I am always trying to improve development and communication processes.🔥
+</h4>
+<br />
+
+## 🔭 Currently working as a Solana Smart Contract Dev in [IIInigence](https://iiinigence.com/)
+![Screenshot_14](https://user-images.githubusercontent.com/29230603/191172999-7409fc8e-9bc8-4f46-a453-27b67047f0f6.png)
+
+
+## 📩 You can contact me via 📩
+<a href="https://www.linkedin.com/in/oura-kano-582981222/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/linkedin.svg" alt="Oura | LinkedIn" width="24px"/></a>
+<a href="https://discordapp.com/users/946819354182418492"><img align="left" src="https://raw.githubusercontent.com/dev-tom-0108/dev-tom-0108/main/images/discord.svg" alt="Oura | Discord" width="24px"/></a>
+<a href="mailto:eros1030109@gmail.com"><img align="left" src="https://raw.githubusercontent.com/dev-tom-0108/dev-tom-0108/main/images/email.svg" alt="Oura | Email" width="24px"/></a>
+<a href="https://t.me/Ed1030109/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Alex | Telegram" width="24px"/></a>
+<a href="https://join.skype.com/invite/OB8CWgBxi2qJ"><img align="left" src="https://raw.githubusercontent.com/dev-tom-0108/dev-tom-0108/main/images/skype.svg" alt="Oura | Skype" width="24px"/></a>
+<br/>
