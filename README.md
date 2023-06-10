@@ -4,8 +4,6 @@
 Hi 👋 Welcome!
 </h2>
 
-
-
 ## 💰 Chain based
 <span><img src="https://seeklogo.com/images/S/solana-sol-logo-9AA58519FE-seeklogo.com.png" alt="Solana logo" title="Solana" height="40" />
 &nbsp;
@@ -70,8 +68,6 @@ More than 5 years of experience with web and app development, 3+ years of 🔗<b
 </h4>
 <br />
 
-## 🔭 Currently working as a Solana Smart Contract Dev in [IIInigence](https://iiinigence.com/)
-![Screenshot_14](https://user-images.githubusercontent.com/29230603/191172999-7409fc8e-9bc8-4f46-a453-27b67047f0f6.png)
 
 
 ## 📩 You can contact me via 📩
