@@ -1,6 +1,9 @@
 <h2 align = "center">
 Hi 👋 Welcome!
 </h2>
+<div align="center">
+  <img src="./MishManners20animated.gif" width="100%" height="100%"/>
+</div>
 <img float = "right" width = "100%" src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ## 💰 Skills
