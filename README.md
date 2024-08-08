@@ -45,7 +45,7 @@ Hi 👋 Welcome!
 
 
 <h4 align="center">
-More than 5 years of experience with web and app development, 3+ years of 🔗<b>BLOCKCHAIN</b>🔗 part. 
+More than 7 years of experience with web and app development, 5+ years of 🔗<b>BLOCKCHAIN</b>🔗 part. 
 <br /><br />
 👨‍💻As a creative & passionate developer, and fast learner with new skills and cutting edge skills in detail and high quality.👨‍💻
 </br>
