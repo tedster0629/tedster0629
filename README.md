@@ -1,4 +1,4 @@
-![tedster0629](https://github.com/user-attachments/assets/061e79d5-a53d-46c4-a6be-c7e0fe47cfd2)<h2 align = "center">
+<h2 align = "center">
 Hi 👋 Welcome! I am a Blockchain/React/Node.js/PHP Developer.
 </h2>
 <div align="center">
@@ -48,7 +48,7 @@ Hi 👋 Welcome! I am a Blockchain/React/Node.js/PHP Developer.
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>  
 </p>
 </div>
-  <div align="right">![tedster0629](https://github.com/user-attachments/assets/989d6fe8-6475-4c8f-bb12-669fa805535a)
+  <div align="right">![tedster0629](https://github.com/user-attachments/assets/061e79d5-a53d-46c4-a6be-c7e0fe47cfd2)
 </div>
 </div>
   
