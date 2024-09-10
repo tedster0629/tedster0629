@@ -4,9 +4,9 @@ Hi 👋 Welcome! I am a Blockchain/React/Node.js/PHP Developer.
 <div align="center">
   <img src="https://github.com/VirusNinja1210/VirusNinja1210/blob/main/MishManners20animated.gif" width="100%" height="100%"/>
 </div>
-![tedster0629](https://github.com/user-attachments/assets/989d6fe8-6475-4c8f-bb12-669fa805535a)
 
 ## 💰 Skills
+<div> <div align ="left">
 <p align="left"> Language : </p>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -47,7 +47,11 @@ Hi 👋 Welcome! I am a Blockchain/React/Node.js/PHP Developer.
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>  
 </p>
-
+</div>
+  <div align="right">![tedster0629](https://github.com/user-attachments/assets/989d6fe8-6475-4c8f-bb12-669fa805535a)
+</div>
+</div>
+  
 ## 🛠  Technologies and tools
 <span><img src="https://img.shields.io/badge/Rust-282C34?logo=Rust&logoColor=fff" alt="Rust logo" title="Rust" height="20" />
 &nbsp;
