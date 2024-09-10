@@ -2,8 +2,7 @@
 Hi 👋 Welcome! I am a Blockchain/React/Node.js/PHP Developer.
 </h2>
 <div align="center">
-  <img src="https://github.com/VirusNinja1210/VirusNinja1210/blob/main/MishManners20animated.gif" width="75%" height="100%"/>
-  <a><img src="https://api.daily.dev/devcards/v2/yF5v27XeWhGruzQQSbwjd.png?type=default&r=iyr" width="356" alt="tedster's Dev Card"/></a>
+  <img src="https://github.com/VirusNinja1210/VirusNinja1210/blob/main/MishManners20animated.gif" width="100%" height="100%"/>
 </div>
 
 ## 💰 Skills
