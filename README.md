@@ -1,9 +1,10 @@
-<h2 align = "center">
+![tedster0629](https://github.com/user-attachments/assets/061e79d5-a53d-46c4-a6be-c7e0fe47cfd2)<h2 align = "center">
 Hi 👋 Welcome! I am a Blockchain/React/Node.js/PHP Developer.
 </h2>
 <div align="center">
   <img src="https://github.com/VirusNinja1210/VirusNinja1210/blob/main/MishManners20animated.gif" width="100%" height="100%"/>
 </div>
+![tedster0629](https://github.com/user-attachments/assets/989d6fe8-6475-4c8f-bb12-669fa805535a)
 
 ## 💰 Skills
 <p align="left"> Language : </p>
