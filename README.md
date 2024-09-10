@@ -1,13 +1,9 @@
 <h2 align = "center">
 Hi 👋 Welcome! I am a Blockchain/React/Node.js/PHP Developer.
 </h2>
-<div align="center" style="display: flex; justify-content: space-around;">
-  <div>
-    <div align="left">  <img src="https://github.com/user-attachments/assets/cd00f5d0-3ea1-44ab-8a38-48c02c2b20be" width="60%" height="100%"/>
-  </div>
-  </div>
-  <div align="right">  <img src="https://github.com/user-attachments/assets/061e79d5-a53d-46c4-a6be-c7e0fe47cfd2" width="40%" height="100%"/>
-</div>
+<div align="center" style="display: flex;">
+  <img src="https://github.com/user-attachments/assets/cd00f5d0-3ea1-44ab-8a38-48c02c2b20be" width="60%" height="100%"/>
+  <img src="https://github.com/user-attachments/assets/061e79d5-a53d-46c4-a6be-c7e0fe47cfd2" width="40%" height="100%"/>
 </div>
 
 ## 💰 Skills
