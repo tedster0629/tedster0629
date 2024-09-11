@@ -1,8 +1,9 @@
 <h2 align = "center">
 Hi 👋 Welcome! I am a Blockchain/React/Node.js/PHP Developer.
 </h2>
-<img align=top src="https://github.com/user-attachments/assets/cd00f5d0-3ea1-44ab-8a38-48c02c2b20be" width="100%" />
-  
+<div align = "center" >
+  <img align=top src="https://github.com/user-attachments/assets/cd00f5d0-3ea1-44ab-8a38-48c02c2b20be" width="100%" />
+</div>
 
 ## 💰 Skills
 <div style="display: flex;"> 
