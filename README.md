@@ -3,17 +3,16 @@ Hi 👋 Welcome! I am a Blockchain/React/Node.js/PHP Developer.
 </h2>
 <div align="center">
   <div style="display: flex;">
-  <img src="https://github.com/user-attachments/assets/cd00f5d0-3ea1-44ab-8a38-48c02c2b20be" width="60%" height="100%"/>
-  <img src="https://github.com/user-attachments/assets/061e79d5-a53d-46c4-a6be-c7e0fe47cfd2" width="40%" height="100%"/>
+  <img src="https://github.com/user-attachments/assets/cd00f5d0-3ea1-44ab-8a38-48c02c2b20be" width="60%" height="100%" />
+  <img src="https://github.com/user-attachments/assets/061e79d5-a53d-46c4-a6be-c7e0fe47cfd2" width="40%" height="100%" />
   </div>
+</div>
 <div align="center">
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
 </div>
-</div>
-
 ## 💰 Skills
 <div align="flex"> <div align ="left">
 <p align="left"> Language : </p>
