@@ -2,10 +2,8 @@
 Hi 👋 Welcome! I am a Blockchain/React/Node.js/PHP Developer.
 </h2>
 <div align="center">
-  <div style="display: flex;">
-  <img src="https://github.com/user-attachments/assets/cd00f5d0-3ea1-44ab-8a38-48c02c2b20be" width="60%" />
-  <img src="https://github.com/user-attachments/assets/061e79d5-a53d-46c4-a6be-c7e0fe47cfd2" width="40%" />
-  </div>
+  <img src="https://github.com/user-attachments/assets/cd00f5d0-3ea1-44ab-8a38-48c02c2b20be" width="100%" />
+ 
 </div>
 
 ## 💰 Skills
@@ -49,8 +47,8 @@ Hi 👋 Welcome! I am a Blockchain/React/Node.js/PHP Developer.
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>  
-</p>
-
+</div>
+ <img src="https://github.com/user-attachments/assets/061e79d5-a53d-46c4-a6be-c7e0fe47cfd2" width="40%" aglin = "right" />
 </div>
   
 ## 🛠  Technologies and tools
