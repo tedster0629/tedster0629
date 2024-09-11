@@ -1,16 +1,14 @@
 <h2 align = "center">
 Hi 👋 Welcome! I am a Blockchain/React/Node.js/PHP Developer.
 </h2>
-<table>
-  <tr>
-  <td valign="top"><img align=top src="https://github.com/user-attachments/assets/cd00f5d0-3ea1-44ab-8a38-48c02c2b20be" width="100%" /></td>
-  <td valign="top"><img align=top src="https://github.com/user-attachments/assets/061e79d5-a53d-46c4-a6be-c7e0fe47cfd2" width="100%" /></td>
-  </tr>
-</table>
+<img align=top src="https://github.com/user-attachments/assets/cd00f5d0-3ea1-44ab-8a38-48c02c2b20be" width="100%" />
+  
 
 ## 💰 Skills
 <div style="display: flex;"> 
-  <div >
+<table>
+  <tr>
+  <td valign="top">
     <p align="left"> Language : </p>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -50,10 +48,10 @@ Hi 👋 Welcome! I am a Blockchain/React/Node.js/PHP Developer.
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>  
-  </div>
-  <div  align=top >
-  </div>
-</div>
+</td>
+<td valign="top"><img align=top src="https://github.com/user-attachments/assets/061e79d5-a53d-46c4-a6be-c7e0fe47cfd2" width="100%" /></td>
+  </tr>
+</table>
   
 ## 🛠  Technologies and tools
 <span><img src="https://img.shields.io/badge/Rust-282C34?logo=Rust&logoColor=fff" alt="Rust logo" title="Rust" height="20" />
