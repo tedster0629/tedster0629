@@ -52,7 +52,7 @@ Hi 👋 Welcome! I am a Blockchain/React/Node.js/PHP Developer.
 </td>
 <td valign="top">
   <div align = "center" >
-  <img src="https://github.com/user-attachments/assets/061e79d5-a53d-46c4-a6be-c7e0fe47cfd2" width="40%" /></td>
+  <img src="https://github.com/user-attachments/assets/061e79d5-a53d-46c4-a6be-c7e0fe47cfd2" width="55%" /></td>
   </div>
   </tr>
 </table>
